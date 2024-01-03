@@ -37,7 +37,7 @@ The Supply Chain team decided to use a standard approach to measure the service 
 •	Mastering Power BI Web Version and Creating Workspaces
 •	Seamlessly Publishing and Sharing Reports with Stakeholders
 # Live Dashboard
-•	Explore the live dashboard :
+•	**Explore the live dashboard** :
   https://app.powerbi.com/view?r=eyJrIjoiNTljMTNjZjktM2VkOC00YTNjLWEwYTMtNWIwOTg1MDI3ZWM4IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
 
 •	Open the link above to access the interactive dashboards.
