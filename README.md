@@ -22,7 +22,8 @@ The Supply Chain team decided to use a standard approach to measure the service 
 •	Data Modeling
 •	Dashboard Preparation
 •	Data Validation & Stakeholder Feedback Implementation
-• Key Learnings
+
+ # Key Learnings
 •	Understanding BusinesTerminologies
 •	Utilizing Power BI for data visualization
 •	Data Transformation and Calculated Columns with Power Query and M Language
