@@ -17,10 +17,10 @@ The Supply Chain team decided to use a standard approach to measure the service 
 
 # Approach
 **Project Planning**
-Data Collection, Exploration, Transformation
-Data Modeling
-Dashboard Preparation
-Data Validation & Stakeholder Feedback Implementation
+   • Data Collection, Exploration, Transformation
+   • Data Modeling
+   • Dashboard Preparation
+   • Data Validation & Stakeholder Feedback Implementation
  # Key Learnings
 •	Understanding BusinesTerminologies
 •	Utilizing Power BI for data visualization
