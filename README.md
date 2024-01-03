@@ -9,8 +9,10 @@ The Supply Chain team decided to use a standard approach to measure the service 
 
 # Task
 •	Create the metrics according to the metrics list.
+
 •	Create a dashboard according to the requirements provided by stakeholders in the business review meeting. You will be provided with the transcript of this business review 
   meeting in comic form.
+  
 •	Create relevant insights not provided in the metric list/stakeholder meeting.
 
 # Approach
